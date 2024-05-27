@@ -21,7 +21,7 @@ const login = () => {
                     Sign In
                 </button>
                 <Link href='/Signup'>
-                <p className="text-xs text-zinc-600 mt-2">Don't have an Account? Please Sign Up</p>
+                <p className="text-xs text-zinc-600 mt-2">Dont have an Account? Please Sign Up</p>
                 </Link>
             </form>
         </div>
