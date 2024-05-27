@@ -11,7 +11,7 @@ const MissionStatement: React.FC = () => {
         operations, and drive growth.
       </p>
       <p className="text-gray-500 text-sm leading-relaxed">
-        We're committed to pushing the boundaries of what's possible with AI,
+        We are committed to pushing the boundaries of what's possible with AI,
         while also ensuring that our technology is transparent, explainable, and
         fair. Our goal is to build a future where humans and machines work together
         seamlessly, creating a better world for everyone.
