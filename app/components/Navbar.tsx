@@ -28,8 +28,8 @@ const Navbar: React.FC = () => {
         <Link href="/mission" className="mr-4">
           Mission
         </Link>
-        <Link href="/login" className="mr-4">
-          Login
+        <Link href="/privacy" className="mr-4">
+          Privacy
         </Link>
       </div>
     </nav>
