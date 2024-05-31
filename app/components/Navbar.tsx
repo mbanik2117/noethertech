@@ -25,8 +25,8 @@ const Navbar: React.FC = () => {
         <Link href="/products" className="mr-4">
           Products
         </Link>
-        <Link href="/mission" className="mr-4">
-          Mission
+        <Link href="/delete_account" className="mr-4">
+          Delete Account
         </Link>
         <Link href="/privacy" className="mr-4">
           Privacy
