@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
         <section className="mb-6">
           <h2 className="text-2xl font-semibold mb-2">Protection Against Abuse</h2>
           <p className="text-lg">
-            Instaproperty has a zero-tolerance policy for abuse, whether it's against women, children, or any other individuals. Any form of audio-visual violence, abuse, or harassment is strictly banned. We have robust reporting mechanisms in place to address any violations of these policies.
+            Instaproperty has a zero-tolerance policy for abuse, whether it is against women, children, or any other individuals. Any form of audio-visual violence, abuse, or harassment is strictly banned. We have robust reporting mechanisms in place to address any violations of these policies.
           </p>
         </section>
         <section className="mb-6">
